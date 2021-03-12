@@ -1,3 +1,4 @@
 @charset "utf-8";
 /* CSS Document */
 body{ background-color: aqua;}
+.center {padding: 70px; border: #3E0C3F; text-align: center}
